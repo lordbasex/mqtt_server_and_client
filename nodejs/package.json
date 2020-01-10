@@ -1,0 +1,20 @@
+{
+  "name": "client_mqtt",
+  "version": "1.0.0",
+  "description": "client mqtt test",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "client",
+    "mqtt"
+  ],
+  "author": "Federico Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "mosca": "^2.8.3",
+    "mqtt": "^3.0.0"
+  }
+}
