@@ -2,9 +2,10 @@
   "name": "client_mqtt",
   "version": "1.0.0",
   "description": "client mqtt test",
-  "main": "client.js",
+  "main": "client_publish.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node client_publish.js"
   },
   "keywords": [
     "client",
